@@ -1,10 +1,9 @@
 fun sendMessageToClient(
-        client: Client?, message: String?, mailer: Mailer
+    client: Client?, message: String?, mailer: Mailer
 ) {
     var email = client?.personalInfo?.email
-    if(email != null && message != null)
-    {
-        mailer.sendMessage(email,message)
+    if (email != null && message != null) {
+        mailer.sendMessage(email, message)
     }
 }
 
