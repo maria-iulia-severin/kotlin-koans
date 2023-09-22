@@ -7,4 +7,4 @@ The products are declared in `data.kt`.
 Use the `getTitleColor()` and `getCellColor()` functions.
 Pass a color as an argument to the functions `tr`, `td`.
 
-Run the main function defined in the file `demo.kt` to see the rendered table.
+ the main function defined in the file `demo.kt` to see the rendered table.
