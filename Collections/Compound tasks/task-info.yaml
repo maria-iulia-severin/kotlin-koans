@@ -3,8 +3,8 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 188
-        length: 116
+      - offset: 187
+        length: 111
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -13,7 +13,7 @@ files:
         selected: true
         status: Solved
         encrypted_possible_answer: /4b7Te1I9FQsTvUfXeZ4sh/RVSnS+Z03tEXMpukL0tfzDlj7scpwoKR2yNWeHAzt5A0lBAigD+zz/ezsnJfTj+SdkC6P6hDQxIfYvKIukMWEyF16Oft0W/yhJv5Cfioi8ipD7sNciChl9vKUg4bRoyvpzmCIz14CRtzNccqJ6nsWErWDR2kgXZBfyxLTgDmT
-      - offset: 498
+      - offset: 491
         length: 96
         placeholder_text: TODO()
         initial_state:
@@ -23,7 +23,7 @@ files:
         selected: true
         status: Solved
         encrypted_possible_answer: KCADkUWeK88RYKnwSa+Idplx6+4og4iMiY7lGQfI2K8GOnjhSLFXSxL8ejbMhv4vF1x8Ltj4DjRQL59qRSiHAsxKXNGEA1rPV+eFsNtIKTKzPmkFZpdI0f4Voy3bTbZLUB8pNGiAIF2CtZGbciCFbg==
-      - offset: 653
+      - offset: 646
         length: 31
         placeholder_text: /* TODO */
         initial_state:
@@ -51,5 +51,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVj
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Fri, 22 Sep 2023 07:45:17 UTC"
+  time: "Fri, 22 Sep 2023 07:48:26 UTC"
 record: -1
